@@ -1,3 +1,5 @@
+PR test
+
 # 🚀Id Server
 [Id Server](https://github.com/NotFound403/id-server)是一个基于[Spring Authorization Server](https://github.com/spring-projects/spring-authorization-server)的开源的授权服务器，拉取代码直接运行，无需过多配置。欢迎Star，如果有兴趣也可以对本项目发起贡献。
 - github: [https://github.com/NotFound403/id-server](https://github.com/NotFound403/id-server)
